@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713089818624",
+    "project_id": "yala-play-verse",
+    "storage_bucket": "yala-play-verse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713089818624:android:c646e4ab24ee7f2313b8e5",
+        "android_client_info": {
+          "package_name": "com.example.yalaplayverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Puw006EyoMhYgB7_WIxjpDcog7R7XLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

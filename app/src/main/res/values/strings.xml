@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Yala Play Verse</string>
+
+    <string name="state">Ready</string>
+    <string name="mode_win">You Won</string>
+    <string name="mode_loss">You Lost</string>
+    <string name="mode_paused">Paused</string>
+
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
